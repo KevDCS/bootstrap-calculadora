@@ -2,7 +2,7 @@
 Ejercicio de calculadora con Bootstrap, semana 4, día 1
 
 
-##Instructions
+## Instructions
 
 Utiliza Bootstrap para crear una interfaz de usuario que incluya lo siguiente:
 
@@ -13,7 +13,7 @@ Utiliza Bootstrap para crear una interfaz de usuario que incluya lo siguiente:
 3. Un área de resultado para mostrar el total de la propina calculada.
 
 
-##Utiliza JavaScript para agregar funcionalidad de cálculo a la página:
+## Utiliza JavaScript para agregar funcionalidad de cálculo a la página:
 
 
 
@@ -24,7 +24,7 @@ Utiliza Bootstrap para crear una interfaz de usuario que incluya lo siguiente:
 3. Crea un pop-up o Modal para mostrar el resultado total de la factura con propina y el desglose de ambos gastos.
 
 
-##Extra:
+## Extra:
 
 1. Añade la funcionalidad extra de añadir platos / bebidas a la factura y que se calcule el total de esta a partir de los datos introducidos.
 2. Añade otras funcionalidades extra que creas convenientes, por ejemplo, sistemas de vales y descuentos, colores indicativos, etc.
